@@ -45,7 +45,7 @@
 
                 <li class="sidebar-nav-link">
                     <a href="javascript:;" class="sidebar-nav-sub-title <?php echo $cur_title[5];?>">
-                        <i class="am-icon-table sidebar-nav-link-logo"></i> 扩展工具!
+                        <i class="am-icon-table sidebar-nav-link-logo"></i> 扩展工具
                         <span class="am-icon-chevron-down am-fr am-margin-right-sm sidebar-nav-sub-ico"></span>
                     </a>
                     <ul class="sidebar-nav sidebar-nav-sub">
